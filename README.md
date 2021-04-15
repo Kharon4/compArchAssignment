@@ -43,10 +43,10 @@ On reset assume that the instruction memory gets initialized with the following 
 ``` x86 assembly
     li Rx, 3
     addi Rx, 2
-	addi Ry,3
-	j L1
-	li Rz, 4
-L1:	addi Rz, -3
+    addi Ry,3
+    j L1
+    li Rz, 4
+L1: addi Rz, -3
 ```
 ```
 The value of x,y,z is unique for every student
