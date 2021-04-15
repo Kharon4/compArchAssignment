@@ -42,7 +42,7 @@ On reset assume that the instruction memory gets initialized with the following 
 ```
 ``` x86 assembly
     li Rx, 3
-	addi Rx, 2
+    addi Rx, 2
 	addi Ry,3
 	j L1
 	li Rz, 4
