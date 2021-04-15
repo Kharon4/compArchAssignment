@@ -70,3 +70,9 @@ In my case x = 6, y = z = 4;
 ![](./imgs/outputs/rawPipelined.png)
 - Registers Marked
 ![](./imgs/outputs/markedPipelined.png)
+
+## RTL schematic
+### Single Cycle Processor
+![](./imgs/solutionDesign/rtlSingleCycle.png)
+### Pipelined Processor
+![](./imgs/solutionDesign/rtlPipelined.png)
